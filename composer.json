@@ -14,8 +14,8 @@
     }
   ],
   "require": {
-    "becskei/repo2": "1.0.0",
-    "becskei/repo3": "1.0.0"
+    "becskei/repo2": "4.1",
+    "becskei/repo3": "3.0.3"
   },
   "config": {
     "home": "/tmp/composer",
