@@ -1,0 +1,64 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "8c45261275aa31ed8c9322a111e60c36",
+    "packages": [
+        {
+            "name": "becskei/repo2",
+            "version": "4.1",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:becskei/repo2.git",
+                "reference": "51f692c9f0d4005c1f4079623305e516f68db560"
+            },
+            "type": "project",
+            "autoload": {
+                "psr-0": {
+                    "": [
+                        "src/",
+                        "features/"
+                    ],
+                    "spec": [
+                        ""
+                    ]
+                }
+            },
+            "license": [
+                "proprietary"
+            ],
+            "description": "https://github.com/becskei/repo2",
+            "time": "2018-02-23T14:29:29+00:00"
+        },
+        {
+            "name": "becskei/repo3",
+            "version": "3.0.3",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:becskei/repo3.git",
+                "reference": "9ba166fb9ff165e55061840f927a48c26bb48f06"
+            },
+            "type": "project",
+            "autoload": {
+                "psr-0": {
+                    "": "src/"
+                }
+            },
+            "license": [
+                "proprietary"
+            ],
+            "description": "https://github.com/becskei/repo3",
+            "time": "2018-02-23T13:49:15+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
